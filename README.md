@@ -96,5 +96,8 @@ streamlit run app.py
 
 <img width="1891" height="937" alt="image" src="https://github.com/user-attachments/assets/a323c759-79c9-43f8-a148-e4f488893653" />
 
+## Host Link
 
+Local URL: http://localhost:8501
+Network URL: http://172.17.36.63:8501
 
