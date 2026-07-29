@@ -48,7 +48,6 @@ Create a `.env` file with the following values:
 OLLAMA_MODEL=llama3.2
 EMBEDDING_MODEL=nomic-embed-text
 LANGCHAIN_TRACING_V2=false
-LANGCHAIN_API_KEY=
 LANGCHAIN_PROJECT=SecureOpsAI
 ```
 
@@ -86,3 +85,16 @@ streamlit run app.py
 - Add proper unit tests for supervisor routing and threat intelligence behavior.
 - Persist analyst feedback outside the session.
 - Expand threat enrichment across incidents, endpoints, and reports.
+
+## Results
+
+<img width="1909" height="944" alt="Screenshot 2026-07-29 141057" src="https://github.com/user-attachments/assets/fb28bbfc-d20f-4835-9a2a-10e566e9eb80" />
+
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/05f4630d-a60b-4056-9586-dd65fc66b375" />
+
+<img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/ce71232e-d788-45bc-8f7f-5d06c0182622" />
+
+<img width="1891" height="937" alt="image" src="https://github.com/user-attachments/assets/a323c759-79c9-43f8-a148-e4f488893653" />
+
+
+
