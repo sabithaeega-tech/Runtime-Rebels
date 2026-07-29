@@ -1,0 +1,12 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-ollama
+langsmith
+chromadb
+faiss-cpu
+python-dotenv
+requests
+pydantic
+pandas

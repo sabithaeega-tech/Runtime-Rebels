@@ -1,0 +1,1602 @@
+[
+  {
+    "ioc_id": "IOC0001",
+    "ioc_type": "Domain",
+    "value": "indicator1.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 61
+  },
+  {
+    "ioc_id": "IOC0002",
+    "ioc_type": "Hash",
+    "value": "indicator2.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 63
+  },
+  {
+    "ioc_id": "IOC0003",
+    "ioc_type": "Hash",
+    "value": "indicator3.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0004",
+    "ioc_type": "Hash",
+    "value": "indicator4.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 77
+  },
+  {
+    "ioc_id": "IOC0005",
+    "ioc_type": "Hash",
+    "value": "10.36.40.33",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 57
+  },
+  {
+    "ioc_id": "IOC0006",
+    "ioc_type": "Domain",
+    "value": "10.169.11.58",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 74
+  },
+  {
+    "ioc_id": "IOC0007",
+    "ioc_type": "Hash",
+    "value": "10.80.147.20",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0008",
+    "ioc_type": "Hash",
+    "value": "10.29.56.150",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 91
+  },
+  {
+    "ioc_id": "IOC0009",
+    "ioc_type": "IP",
+    "value": "10.215.133.52",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0010",
+    "ioc_type": "IP",
+    "value": "indicator10.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 65
+  },
+  {
+    "ioc_id": "IOC0011",
+    "ioc_type": "Domain",
+    "value": "10.18.177.252",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0012",
+    "ioc_type": "Hash",
+    "value": "indicator12.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0013",
+    "ioc_type": "IP",
+    "value": "10.21.53.10",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0014",
+    "ioc_type": "Hash",
+    "value": "10.244.155.201",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 53
+  },
+  {
+    "ioc_id": "IOC0015",
+    "ioc_type": "IP",
+    "value": "indicator15.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0016",
+    "ioc_type": "Domain",
+    "value": "indicator16.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0017",
+    "ioc_type": "IP",
+    "value": "10.193.64.111",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0018",
+    "ioc_type": "IP",
+    "value": "10.188.180.50",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1486",
+    "confidence": 53
+  },
+  {
+    "ioc_id": "IOC0019",
+    "ioc_type": "IP",
+    "value": "10.5.116.106",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 96
+  },
+  {
+    "ioc_id": "IOC0020",
+    "ioc_type": "IP",
+    "value": "indicator20.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0021",
+    "ioc_type": "Domain",
+    "value": "10.22.160.90",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0022",
+    "ioc_type": "Hash",
+    "value": "10.62.39.20",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 63
+  },
+  {
+    "ioc_id": "IOC0023",
+    "ioc_type": "Domain",
+    "value": "indicator23.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 78
+  },
+  {
+    "ioc_id": "IOC0024",
+    "ioc_type": "Hash",
+    "value": "10.187.149.223",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0025",
+    "ioc_type": "Domain",
+    "value": "indicator25.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 72
+  },
+  {
+    "ioc_id": "IOC0026",
+    "ioc_type": "Domain",
+    "value": "indicator26.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 55
+  },
+  {
+    "ioc_id": "IOC0027",
+    "ioc_type": "IP",
+    "value": "indicator27.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 97
+  },
+  {
+    "ioc_id": "IOC0028",
+    "ioc_type": "Hash",
+    "value": "10.190.72.10",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1486",
+    "confidence": 91
+  },
+  {
+    "ioc_id": "IOC0029",
+    "ioc_type": "Domain",
+    "value": "indicator29.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0030",
+    "ioc_type": "Domain",
+    "value": "10.196.153.212",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0031",
+    "ioc_type": "Hash",
+    "value": "10.9.195.99",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0032",
+    "ioc_type": "IP",
+    "value": "10.220.26.170",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 84
+  },
+  {
+    "ioc_id": "IOC0033",
+    "ioc_type": "Domain",
+    "value": "indicator33.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 98
+  },
+  {
+    "ioc_id": "IOC0034",
+    "ioc_type": "Hash",
+    "value": "10.14.174.186",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 100
+  },
+  {
+    "ioc_id": "IOC0035",
+    "ioc_type": "Hash",
+    "value": "indicator35.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 85
+  },
+  {
+    "ioc_id": "IOC0036",
+    "ioc_type": "Domain",
+    "value": "indicator36.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 79
+  },
+  {
+    "ioc_id": "IOC0037",
+    "ioc_type": "Domain",
+    "value": "indicator37.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 74
+  },
+  {
+    "ioc_id": "IOC0038",
+    "ioc_type": "Domain",
+    "value": "indicator38.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 50
+  },
+  {
+    "ioc_id": "IOC0039",
+    "ioc_type": "Domain",
+    "value": "indicator39.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 65
+  },
+  {
+    "ioc_id": "IOC0040",
+    "ioc_type": "Hash",
+    "value": "10.202.19.158",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0041",
+    "ioc_type": "Hash",
+    "value": "10.6.63.79",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 61
+  },
+  {
+    "ioc_id": "IOC0042",
+    "ioc_type": "Domain",
+    "value": "10.225.4.120",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0043",
+    "ioc_type": "Hash",
+    "value": "indicator43.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1486",
+    "confidence": 53
+  },
+  {
+    "ioc_id": "IOC0044",
+    "ioc_type": "Hash",
+    "value": "indicator44.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 85
+  },
+  {
+    "ioc_id": "IOC0045",
+    "ioc_type": "Domain",
+    "value": "indicator45.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 66
+  },
+  {
+    "ioc_id": "IOC0046",
+    "ioc_type": "Domain",
+    "value": "10.253.65.59",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0047",
+    "ioc_type": "Hash",
+    "value": "10.58.19.48",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0048",
+    "ioc_type": "IP",
+    "value": "indicator48.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 95
+  },
+  {
+    "ioc_id": "IOC0049",
+    "ioc_type": "Domain",
+    "value": "indicator49.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 84
+  },
+  {
+    "ioc_id": "IOC0050",
+    "ioc_type": "Hash",
+    "value": "10.120.179.28",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 78
+  },
+  {
+    "ioc_id": "IOC0051",
+    "ioc_type": "IP",
+    "value": "indicator51.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0052",
+    "ioc_type": "Hash",
+    "value": "10.212.36.165",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 59
+  },
+  {
+    "ioc_id": "IOC0053",
+    "ioc_type": "IP",
+    "value": "10.184.171.250",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0054",
+    "ioc_type": "Domain",
+    "value": "indicator54.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0055",
+    "ioc_type": "Domain",
+    "value": "indicator55.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0056",
+    "ioc_type": "IP",
+    "value": "indicator56.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 74
+  },
+  {
+    "ioc_id": "IOC0057",
+    "ioc_type": "Hash",
+    "value": "10.76.195.196",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0058",
+    "ioc_type": "Hash",
+    "value": "indicator58.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 96
+  },
+  {
+    "ioc_id": "IOC0059",
+    "ioc_type": "IP",
+    "value": "indicator59.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0060",
+    "ioc_type": "Hash",
+    "value": "indicator60.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0061",
+    "ioc_type": "IP",
+    "value": "indicator61.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 71
+  },
+  {
+    "ioc_id": "IOC0062",
+    "ioc_type": "IP",
+    "value": "indicator62.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 79
+  },
+  {
+    "ioc_id": "IOC0063",
+    "ioc_type": "Domain",
+    "value": "indicator63.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 78
+  },
+  {
+    "ioc_id": "IOC0064",
+    "ioc_type": "Hash",
+    "value": "indicator64.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 55
+  },
+  {
+    "ioc_id": "IOC0065",
+    "ioc_type": "Domain",
+    "value": "indicator65.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 91
+  },
+  {
+    "ioc_id": "IOC0066",
+    "ioc_type": "Domain",
+    "value": "indicator66.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0067",
+    "ioc_type": "Hash",
+    "value": "indicator67.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 65
+  },
+  {
+    "ioc_id": "IOC0068",
+    "ioc_type": "Domain",
+    "value": "indicator68.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 66
+  },
+  {
+    "ioc_id": "IOC0069",
+    "ioc_type": "Domain",
+    "value": "10.60.41.105",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 59
+  },
+  {
+    "ioc_id": "IOC0070",
+    "ioc_type": "Hash",
+    "value": "10.101.92.225",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 60
+  },
+  {
+    "ioc_id": "IOC0071",
+    "ioc_type": "IP",
+    "value": "10.240.51.33",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 51
+  },
+  {
+    "ioc_id": "IOC0072",
+    "ioc_type": "Hash",
+    "value": "10.37.67.132",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 72
+  },
+  {
+    "ioc_id": "IOC0073",
+    "ioc_type": "IP",
+    "value": "10.123.150.31",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 87
+  },
+  {
+    "ioc_id": "IOC0074",
+    "ioc_type": "Hash",
+    "value": "indicator74.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 97
+  },
+  {
+    "ioc_id": "IOC0075",
+    "ioc_type": "Domain",
+    "value": "indicator75.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 97
+  },
+  {
+    "ioc_id": "IOC0076",
+    "ioc_type": "Domain",
+    "value": "10.244.68.188",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 82
+  },
+  {
+    "ioc_id": "IOC0077",
+    "ioc_type": "IP",
+    "value": "10.3.189.173",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0078",
+    "ioc_type": "Domain",
+    "value": "10.143.49.60",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1486",
+    "confidence": 71
+  },
+  {
+    "ioc_id": "IOC0079",
+    "ioc_type": "IP",
+    "value": "indicator79.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0080",
+    "ioc_type": "Domain",
+    "value": "10.91.73.11",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1486",
+    "confidence": 83
+  },
+  {
+    "ioc_id": "IOC0081",
+    "ioc_type": "Domain",
+    "value": "indicator81.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 72
+  },
+  {
+    "ioc_id": "IOC0082",
+    "ioc_type": "Domain",
+    "value": "10.147.140.125",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 60
+  },
+  {
+    "ioc_id": "IOC0083",
+    "ioc_type": "Domain",
+    "value": "indicator83.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 98
+  },
+  {
+    "ioc_id": "IOC0084",
+    "ioc_type": "IP",
+    "value": "indicator84.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0085",
+    "ioc_type": "IP",
+    "value": "indicator85.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0086",
+    "ioc_type": "IP",
+    "value": "indicator86.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 81
+  },
+  {
+    "ioc_id": "IOC0087",
+    "ioc_type": "IP",
+    "value": "10.144.218.188",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0088",
+    "ioc_type": "Domain",
+    "value": "10.56.61.114",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 66
+  },
+  {
+    "ioc_id": "IOC0089",
+    "ioc_type": "IP",
+    "value": "indicator89.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 72
+  },
+  {
+    "ioc_id": "IOC0090",
+    "ioc_type": "IP",
+    "value": "indicator90.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0091",
+    "ioc_type": "IP",
+    "value": "indicator91.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1486",
+    "confidence": 90
+  },
+  {
+    "ioc_id": "IOC0092",
+    "ioc_type": "Hash",
+    "value": "indicator92.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0093",
+    "ioc_type": "Domain",
+    "value": "10.162.97.216",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 65
+  },
+  {
+    "ioc_id": "IOC0094",
+    "ioc_type": "IP",
+    "value": "indicator94.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 66
+  },
+  {
+    "ioc_id": "IOC0095",
+    "ioc_type": "Domain",
+    "value": "10.95.254.73",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 90
+  },
+  {
+    "ioc_id": "IOC0096",
+    "ioc_type": "IP",
+    "value": "indicator96.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 77
+  },
+  {
+    "ioc_id": "IOC0097",
+    "ioc_type": "IP",
+    "value": "10.106.91.10",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0098",
+    "ioc_type": "Domain",
+    "value": "indicator98.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0099",
+    "ioc_type": "Hash",
+    "value": "indicator99.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0100",
+    "ioc_type": "Domain",
+    "value": "indicator100.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0101",
+    "ioc_type": "Domain",
+    "value": "indicator101.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 64
+  },
+  {
+    "ioc_id": "IOC0102",
+    "ioc_type": "IP",
+    "value": "indicator102.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1486",
+    "confidence": 78
+  },
+  {
+    "ioc_id": "IOC0103",
+    "ioc_type": "Domain",
+    "value": "10.217.59.46",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 92
+  },
+  {
+    "ioc_id": "IOC0104",
+    "ioc_type": "IP",
+    "value": "10.203.65.199",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 88
+  },
+  {
+    "ioc_id": "IOC0105",
+    "ioc_type": "Domain",
+    "value": "indicator105.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0106",
+    "ioc_type": "Hash",
+    "value": "10.209.31.144",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 93
+  },
+  {
+    "ioc_id": "IOC0107",
+    "ioc_type": "Domain",
+    "value": "10.226.217.103",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0108",
+    "ioc_type": "Domain",
+    "value": "indicator108.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 69
+  },
+  {
+    "ioc_id": "IOC0109",
+    "ioc_type": "Domain",
+    "value": "10.85.105.200",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0110",
+    "ioc_type": "Domain",
+    "value": "10.10.10.206",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 99
+  },
+  {
+    "ioc_id": "IOC0111",
+    "ioc_type": "Hash",
+    "value": "10.180.32.168",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 63
+  },
+  {
+    "ioc_id": "IOC0112",
+    "ioc_type": "Domain",
+    "value": "indicator112.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 75
+  },
+  {
+    "ioc_id": "IOC0113",
+    "ioc_type": "Hash",
+    "value": "10.82.191.85",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 85
+  },
+  {
+    "ioc_id": "IOC0114",
+    "ioc_type": "Hash",
+    "value": "10.6.18.217",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0115",
+    "ioc_type": "Hash",
+    "value": "10.248.21.41",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 51
+  },
+  {
+    "ioc_id": "IOC0116",
+    "ioc_type": "IP",
+    "value": "indicator116.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0117",
+    "ioc_type": "Hash",
+    "value": "10.193.205.34",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 54
+  },
+  {
+    "ioc_id": "IOC0118",
+    "ioc_type": "IP",
+    "value": "indicator118.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 50
+  },
+  {
+    "ioc_id": "IOC0119",
+    "ioc_type": "Hash",
+    "value": "indicator119.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 97
+  },
+  {
+    "ioc_id": "IOC0120",
+    "ioc_type": "Hash",
+    "value": "indicator120.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 69
+  },
+  {
+    "ioc_id": "IOC0121",
+    "ioc_type": "Domain",
+    "value": "10.11.154.71",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0122",
+    "ioc_type": "Domain",
+    "value": "indicator122.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 68
+  },
+  {
+    "ioc_id": "IOC0123",
+    "ioc_type": "Domain",
+    "value": "10.208.142.124",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 82
+  },
+  {
+    "ioc_id": "IOC0124",
+    "ioc_type": "IP",
+    "value": "10.254.201.244",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 95
+  },
+  {
+    "ioc_id": "IOC0125",
+    "ioc_type": "IP",
+    "value": "10.12.203.198",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1486",
+    "confidence": 73
+  },
+  {
+    "ioc_id": "IOC0126",
+    "ioc_type": "Domain",
+    "value": "indicator126.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 59
+  },
+  {
+    "ioc_id": "IOC0127",
+    "ioc_type": "Hash",
+    "value": "indicator127.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 60
+  },
+  {
+    "ioc_id": "IOC0128",
+    "ioc_type": "IP",
+    "value": "indicator128.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 65
+  },
+  {
+    "ioc_id": "IOC0129",
+    "ioc_type": "IP",
+    "value": "10.242.119.16",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 76
+  },
+  {
+    "ioc_id": "IOC0130",
+    "ioc_type": "Domain",
+    "value": "indicator130.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0131",
+    "ioc_type": "Hash",
+    "value": "indicator131.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0132",
+    "ioc_type": "Hash",
+    "value": "10.250.255.81",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 79
+  },
+  {
+    "ioc_id": "IOC0133",
+    "ioc_type": "Hash",
+    "value": "10.41.53.109",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0134",
+    "ioc_type": "IP",
+    "value": "10.62.85.51",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0135",
+    "ioc_type": "Domain",
+    "value": "10.249.71.192",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 50
+  },
+  {
+    "ioc_id": "IOC0136",
+    "ioc_type": "Domain",
+    "value": "10.150.138.134",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 73
+  },
+  {
+    "ioc_id": "IOC0137",
+    "ioc_type": "Hash",
+    "value": "indicator137.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 83
+  },
+  {
+    "ioc_id": "IOC0138",
+    "ioc_type": "Hash",
+    "value": "10.190.128.121",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 71
+  },
+  {
+    "ioc_id": "IOC0139",
+    "ioc_type": "Hash",
+    "value": "indicator139.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 83
+  },
+  {
+    "ioc_id": "IOC0140",
+    "ioc_type": "Hash",
+    "value": "indicator140.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 76
+  },
+  {
+    "ioc_id": "IOC0141",
+    "ioc_type": "IP",
+    "value": "10.34.2.80",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 94
+  },
+  {
+    "ioc_id": "IOC0142",
+    "ioc_type": "IP",
+    "value": "indicator142.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 53
+  },
+  {
+    "ioc_id": "IOC0143",
+    "ioc_type": "Hash",
+    "value": "10.80.34.90",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 90
+  },
+  {
+    "ioc_id": "IOC0144",
+    "ioc_type": "IP",
+    "value": "indicator144.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 77
+  },
+  {
+    "ioc_id": "IOC0145",
+    "ioc_type": "Hash",
+    "value": "indicator145.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 99
+  },
+  {
+    "ioc_id": "IOC0146",
+    "ioc_type": "Domain",
+    "value": "indicator146.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 87
+  },
+  {
+    "ioc_id": "IOC0147",
+    "ioc_type": "IP",
+    "value": "10.110.143.46",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0148",
+    "ioc_type": "IP",
+    "value": "indicator148.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 86
+  },
+  {
+    "ioc_id": "IOC0149",
+    "ioc_type": "Hash",
+    "value": "indicator149.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1566",
+    "confidence": 60
+  },
+  {
+    "ioc_id": "IOC0150",
+    "ioc_type": "IP",
+    "value": "indicator150.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0151",
+    "ioc_type": "IP",
+    "value": "10.243.0.83",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1059",
+    "confidence": 58
+  },
+  {
+    "ioc_id": "IOC0152",
+    "ioc_type": "Hash",
+    "value": "indicator152.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0153",
+    "ioc_type": "Domain",
+    "value": "indicator153.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 85
+  },
+  {
+    "ioc_id": "IOC0154",
+    "ioc_type": "Domain",
+    "value": "10.197.242.91",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0155",
+    "ioc_type": "Hash",
+    "value": "10.109.85.243",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 77
+  },
+  {
+    "ioc_id": "IOC0156",
+    "ioc_type": "Hash",
+    "value": "10.128.61.143",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 61
+  },
+  {
+    "ioc_id": "IOC0157",
+    "ioc_type": "IP",
+    "value": "indicator157.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 96
+  },
+  {
+    "ioc_id": "IOC0158",
+    "ioc_type": "Domain",
+    "value": "10.97.195.96",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 62
+  },
+  {
+    "ioc_id": "IOC0159",
+    "ioc_type": "Domain",
+    "value": "10.99.2.151",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0160",
+    "ioc_type": "Domain",
+    "value": "indicator160.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0161",
+    "ioc_type": "IP",
+    "value": "indicator161.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0162",
+    "ioc_type": "Hash",
+    "value": "indicator162.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 86
+  },
+  {
+    "ioc_id": "IOC0163",
+    "ioc_type": "IP",
+    "value": "indicator163.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 90
+  },
+  {
+    "ioc_id": "IOC0164",
+    "ioc_type": "Domain",
+    "value": "10.242.53.10",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0165",
+    "ioc_type": "Hash",
+    "value": "10.90.67.22",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 53
+  },
+  {
+    "ioc_id": "IOC0166",
+    "ioc_type": "Domain",
+    "value": "indicator166.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 56
+  },
+  {
+    "ioc_id": "IOC0167",
+    "ioc_type": "Hash",
+    "value": "10.99.8.86",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 87
+  },
+  {
+    "ioc_id": "IOC0168",
+    "ioc_type": "Hash",
+    "value": "indicator168.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 76
+  },
+  {
+    "ioc_id": "IOC0169",
+    "ioc_type": "Hash",
+    "value": "indicator169.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 98
+  },
+  {
+    "ioc_id": "IOC0170",
+    "ioc_type": "Hash",
+    "value": "10.136.42.45",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1059",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0171",
+    "ioc_type": "Hash",
+    "value": "10.209.88.163",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 67
+  },
+  {
+    "ioc_id": "IOC0172",
+    "ioc_type": "Hash",
+    "value": "10.174.238.146",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 79
+  },
+  {
+    "ioc_id": "IOC0173",
+    "ioc_type": "IP",
+    "value": "10.46.93.187",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0174",
+    "ioc_type": "Hash",
+    "value": "indicator174.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 100
+  },
+  {
+    "ioc_id": "IOC0175",
+    "ioc_type": "IP",
+    "value": "10.191.235.21",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 93
+  },
+  {
+    "ioc_id": "IOC0176",
+    "ioc_type": "Hash",
+    "value": "indicator176.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 69
+  },
+  {
+    "ioc_id": "IOC0177",
+    "ioc_type": "IP",
+    "value": "10.146.91.72",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1027",
+    "confidence": 70
+  },
+  {
+    "ioc_id": "IOC0178",
+    "ioc_type": "Domain",
+    "value": "10.96.139.227",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 68
+  },
+  {
+    "ioc_id": "IOC0179",
+    "ioc_type": "Domain",
+    "value": "indicator179.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 81
+  },
+  {
+    "ioc_id": "IOC0180",
+    "ioc_type": "Domain",
+    "value": "indicator180.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 78
+  },
+  {
+    "ioc_id": "IOC0181",
+    "ioc_type": "Hash",
+    "value": "indicator181.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1059",
+    "confidence": 87
+  },
+  {
+    "ioc_id": "IOC0182",
+    "ioc_type": "Domain",
+    "value": "10.107.222.89",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1566",
+    "confidence": 71
+  },
+  {
+    "ioc_id": "IOC0183",
+    "ioc_type": "Hash",
+    "value": "indicator183.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 82
+  },
+  {
+    "ioc_id": "IOC0184",
+    "ioc_type": "IP",
+    "value": "10.239.133.9",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1027",
+    "confidence": 92
+  },
+  {
+    "ioc_id": "IOC0185",
+    "ioc_type": "Hash",
+    "value": "10.71.239.151",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 86
+  },
+  {
+    "ioc_id": "IOC0186",
+    "ioc_type": "Domain",
+    "value": "indicator186.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1078",
+    "confidence": 94
+  },
+  {
+    "ioc_id": "IOC0187",
+    "ioc_type": "IP",
+    "value": "indicator187.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1566",
+    "confidence": 76
+  },
+  {
+    "ioc_id": "IOC0188",
+    "ioc_type": "Domain",
+    "value": "10.51.95.234",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1078",
+    "confidence": 60
+  },
+  {
+    "ioc_id": "IOC0189",
+    "ioc_type": "Domain",
+    "value": "indicator189.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 89
+  },
+  {
+    "ioc_id": "IOC0190",
+    "ioc_type": "Domain",
+    "value": "indicator190.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1486",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0191",
+    "ioc_type": "IP",
+    "value": "10.191.172.124",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1078",
+    "confidence": 52
+  },
+  {
+    "ioc_id": "IOC0192",
+    "ioc_type": "IP",
+    "value": "indicator192.example.com",
+    "threat_actor": "APT28",
+    "mitre_technique": "T1486",
+    "confidence": 77
+  },
+  {
+    "ioc_id": "IOC0193",
+    "ioc_type": "Domain",
+    "value": "indicator193.example.com",
+    "threat_actor": "Unknown",
+    "mitre_technique": "T1027",
+    "confidence": 51
+  },
+  {
+    "ioc_id": "IOC0194",
+    "ioc_type": "IP",
+    "value": "indicator194.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1027",
+    "confidence": 94
+  },
+  {
+    "ioc_id": "IOC0195",
+    "ioc_type": "Hash",
+    "value": "10.71.66.170",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 55
+  },
+  {
+    "ioc_id": "IOC0196",
+    "ioc_type": "Domain",
+    "value": "indicator196.example.com",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 79
+  },
+  {
+    "ioc_id": "IOC0197",
+    "ioc_type": "Domain",
+    "value": "10.0.75.52",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1078",
+    "confidence": 69
+  },
+  {
+    "ioc_id": "IOC0198",
+    "ioc_type": "IP",
+    "value": "10.104.223.24",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1566",
+    "confidence": 93
+  },
+  {
+    "ioc_id": "IOC0199",
+    "ioc_type": "Hash",
+    "value": "indicator199.example.com",
+    "threat_actor": "FIN7",
+    "mitre_technique": "T1059",
+    "confidence": 80
+  },
+  {
+    "ioc_id": "IOC0200",
+    "ioc_type": "IP",
+    "value": "10.241.201.179",
+    "threat_actor": "Lazarus",
+    "mitre_technique": "T1486",
+    "confidence": 92
+  }
+]
