@@ -2,7 +2,7 @@ streamlit==1.47.1
 langchain==0.3.27
 langgraph==0.6.5
 langchain-community==0.3.27
-langchain-ollama==0.3.6
+langchain-google-genai
 langsmith==0.4.14
 chromadb==1.0.15
 faiss-cpu==1.14.3
